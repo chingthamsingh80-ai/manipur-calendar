@@ -1,0 +1,14 @@
+{
+  "interval": 5000,
+  "banners": [
+    {
+      "image": "banners/banner1.jpg",
+      "alt": "Manipur Calendar banner",
+      "link": "",
+      "active": true,
+      "order": 1,
+      "start_date": "",
+      "end_date": ""
+    }
+  ]
+}
