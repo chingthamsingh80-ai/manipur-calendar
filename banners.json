@@ -18,6 +18,16 @@
       "order": 2,
       "start_date": "",
       "end_date": ""
+    },
+        {
+      "placement": "below_calendar",
+      "image": "banners/banner_wide.jpg",
+      "alt": "Manipur Calendar advertisement",
+      "link": "",
+      "active": true,
+      "order": 1,
+      "start_date": "",
+      "end_date": ""
     }
   ]
   
