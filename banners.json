@@ -4,11 +4,21 @@
     {
       "image": "banners/banner1.jpg",
       "alt": "Manipur Calendar banner",
-      "link": "",
+      "link": "https://kmbloomingkhangabok.org/calendar/",
       "active": true,
       "order": 1,
       "start_date": "",
       "end_date": ""
     }
+    {
+      "image": "banners/banner2.jpg",
+      "alt": "Manipur Calendar banner",
+      "link": "",
+      "active": true,
+      "order": 2,
+      "start_date": "",
+      "end_date": ""
+    }
   ]
+  
 }
