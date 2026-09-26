@@ -3,7 +3,8 @@
   "version_name": "2026.1",
   "latest_year": 2026,
   "files": {
-    "2026": "rashiphal_2026.json"
+    "2026": "rashiphal_2026.json",
+    "2027": "rashiphal_2027.json"
   },
   "method": "mc-rashiphal-v1"
 }
