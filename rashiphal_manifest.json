@@ -1,0 +1,9 @@
+{
+  "version_code": 1,
+  "version_name": "2026.1",
+  "latest_year": 2026,
+  "files": {
+    "2026": "rashiphal_2026.json"
+  },
+  "method": "mc-rashiphal-v1"
+}
