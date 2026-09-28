@@ -1,9 +1,10 @@
 {
   "version_code": 5,
   "version_name": "2027.2",
-  "latest_year": 2026,
+  "latest_year": 2027,
   "published_at": "2026-09-28",
-  "panchang_url": "https://raw.githubusercontent.com/chingthamsingh80-ai/manipur-calendar/main/panchang.json",
-  "lunar_month_map_url": "https://raw.githubusercontent.com/chingthamsingh80-ai/manipur-calendar/main/lunar_month_map.json",
+  "data_format": "mcd-v1",
+  "panchang_url": "https://raw.githubusercontent.com/chingthamsingh80-ai/manipur-calendar/main/panchang.mcd",
+  "lunar_month_map_url": "https://raw.githubusercontent.com/chingthamsingh80-ai/manipur-calendar/main/lunar_month_map.mcd",
   "images": {}
 }
