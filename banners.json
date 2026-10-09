@@ -21,10 +21,19 @@
     },
         {
       "image": "banners/sir2026.png",
-      "alt": "Manipur Calendar banner",
+      "alt": "SIR",
       "link": "",
       "active": true,
       "order": 3,
+      "start_date": "",
+      "end_date": ""
+    },
+            {
+      "image": "banners/sangaivideoeditor.png",
+      "alt": "Sangai Video Editor",
+      "link": "",
+      "active": true,
+      "order": 4,
       "start_date": "",
       "end_date": ""
     },
