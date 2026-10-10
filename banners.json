@@ -3,8 +3,8 @@
   "banners": [
     {
       "image": "banners/banner1.png",
-      "alt": "Manipur Calendar banner",
-      "link": "",
+      "alt": "Download Aadhaar",
+      "link": "https://myaadhaarbeta.uidai.gov.in/genericDownloadAadhaar/en",
       "active": true,
       "order": 1,
       "start_date": "",
