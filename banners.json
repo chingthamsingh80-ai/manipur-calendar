@@ -2,7 +2,7 @@
   "interval": 5000,
   "banners": [
     {
-      "image": "banners/banner1.jpg",
+      "image": "banners/banner1.png",
       "alt": "Manipur Calendar banner",
       "link": "",
       "active": true,
