@@ -22,7 +22,7 @@
         {
       "image": "banners/sir2026.png",
       "alt": "SIR",
-      "link": "",
+      "link": "https://ceomanipur.nic.in/",
       "active": true,
       "order": 3,
       "start_date": "",
@@ -31,7 +31,7 @@
             {
       "image": "banners/sangaivideoeditor.png",
       "alt": "Sangai Video Editor",
-      "link": "",
+      "link": "https://www.facebook.com/profile.php?id=61595456871588",
       "active": true,
       "order": 4,
       "start_date": "",
