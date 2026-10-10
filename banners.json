@@ -11,13 +11,13 @@
       "end_date": ""
     },
     {
-      "image": "banners/banner2.jpg",
+      "image": "banners/banner2.png",
       "alt": "Manipur Calendar banner",
       "link": "",
       "active": true,
       "order": 2,
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-12"
+      "start_date": "2026-10-10",
+      "end_date": "2027-10-12"
     },
         {
       "image": "banners/sir2026.png",
